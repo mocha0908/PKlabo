@@ -14922,7 +14922,7 @@
   {
     "rarity": "保証",
     "code": "",
-    "name": "SR保証(ポケモン・トレーナーズ・スタンダード)",
+    "name": "SR保証(ポケモンとサポート・スタンダード)",
     "image": "",
     "priceA": 80,
     "priceB": 40,
@@ -14932,7 +14932,7 @@
   {
     "rarity": "保証",
     "code": "",
-    "name": "SR保証(ポケモン・トレーナーズ・スタンダード)",
+    "name": "SR保証(ポケモンとサポート以外・スタンダード)",
     "image": "",
     "priceA": 20,
     "priceB": 10,
@@ -14954,8 +14954,8 @@
     "code": "",
     "name": "PSA10保証(AR・CHR)",
     "image": "",
-    "priceA": 6200,
-    "priceB": 5700,
+    "priceA": 6000,
+    "priceB": 5500,
     "priceC": 0,
     "priceD": 0
   },
