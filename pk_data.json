@@ -14901,6 +14901,16 @@
   },
   {
     "rarity": "RR",
+    "code": "061/080",
+    "name": "ニャースex 【RR】{061/080}[M3]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/78688.webp",
+    "priceA": 720,
+    "priceB": 480,
+    "priceC": 240,
+    "priceD": 40
+  },
+  {
+    "rarity": "RR",
     "code": "010/032",
     "name": "ピカチュウ 【RR】{010/032}[CP3]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1159.webp",
