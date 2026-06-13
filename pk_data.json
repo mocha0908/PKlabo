@@ -14932,7 +14932,17 @@
   {
     "rarity": "保証",
     "code": "",
-    "name": "SR保証",
+    "name": "SR保証(ポケモン・トレーナーズ・スタンダード)",
+    "image": "",
+    "priceA": 80,
+    "priceB": 40,
+    "priceC": 20,
+    "priceD": 10
+  },
+  {
+    "rarity": "保証",
+    "code": "",
+    "name": "SR保証(ポケモン・トレーナーズ・スタンダード)",
     "image": "",
     "priceA": 80,
     "priceB": 40,
