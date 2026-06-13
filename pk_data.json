@@ -14900,16 +14900,6 @@
     "priceD": 0.5
   },
   {
-    "rarity": "RR",
-    "code": "061/080",
-    "name": "ニャースex 【RR】{061/080}[M3]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/78688.webp",
-    "priceA": 720,
-    "priceB": 480,
-    "priceC": 240,
-    "priceD": 40
-  },
-  {
     "rarity": "保証",
     "code": "",
     "name": "AR・CHR保証",
@@ -14944,10 +14934,10 @@
     "code": "",
     "name": "SR保証(ポケモン・トレーナーズ・スタンダード)",
     "image": "",
-    "priceA": 80,
-    "priceB": 40,
-    "priceC": 20,
-    "priceD": 10
+    "priceA": 20,
+    "priceB": 10,
+    "priceC": 5,
+    "priceD": 1
   },
   {
     "rarity": "保証",
