@@ -80,6 +80,16 @@
     "priceD": 0
   },
   {
+    "rarity": "その他",
+    "code": "",
+    "name": "送料",
+    "image": "",
+    "priceA": -780,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
     "rarity": "RR",
     "code": "014/100",
     "name": "リザードンV 【RR】{014/100}[S9]",
