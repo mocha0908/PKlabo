@@ -8564,10 +8564,10 @@
     "code": "",
     "name": "R団のサンダー 25th【P】{008/025}[S8a-P]",
     "image": "",
-    "priceA": 2300,
-    "priceB": 1610,
-    "priceC": 920,
-    "priceD": 230
+    "priceA": 2500,
+    "priceB": 1750,
+    "priceC": 1000,
+    "priceD": 250
   },
   {
     "rarity": "その他",
@@ -8624,10 +8624,10 @@
     "code": "",
     "name": "ゼルネアスEX 25th【P】{023/025}[S8a-P]",
     "image": "",
-    "priceA": 1800,
-    "priceB": 1260,
-    "priceC": 720,
-    "priceD": 180
+    "priceA": 1900,
+    "priceB": 1330,
+    "priceC": 760,
+    "priceD": 190
   },
   {
     "rarity": "その他",
@@ -8664,10 +8664,10 @@
     "code": "",
     "name": "ピィ 25th【P】{009/025}[S8a-P]",
     "image": "",
-    "priceA": 1600,
-    "priceB": 1120,
-    "priceC": 640,
-    "priceD": 160
+    "priceA": 1500,
+    "priceB": 1050,
+    "priceC": 600,
+    "priceD": 150
   },
   {
     "rarity": "その他",
@@ -8774,10 +8774,10 @@
     "code": "",
     "name": "ロケット団参上！ 25th【P】{006/025}[S8a-P]",
     "image": "",
-    "priceA": 2500,
-    "priceB": 1750,
-    "priceC": 1000,
-    "priceD": 250
+    "priceA": 2400,
+    "priceB": 1680,
+    "priceC": 960,
+    "priceD": 240
   },
   {
     "rarity": "その他",
@@ -32008,6 +32008,26 @@
     "priceB": 6,
     "priceC": 3,
     "priceD": 0.5
+  },
+  {
+    "rarity": "RRR",
+    "code": "056/184~059/184",
+    "name": "モルペコV-UNION 【RRR】{056/184~059/184}[S8b]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/22697.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
+  },
+  {
+    "rarity": "CSR",
+    "code": "226/184~229/184",
+    "name": "モルペコV-UNION 【CSR】{226/184~229/184}[S8b]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/23005.webp",
+    "priceA": 1700,
+    "priceB": 1190,
+    "priceC": 680,
+    "priceD": 170
   },
   {
     "rarity": "RR",
