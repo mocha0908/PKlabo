@@ -10151,6 +10151,16 @@
   },
   {
     "rarity": "RR",
+    "code": "040/069",
+    "name": "ニンフィアV 【RR】{040/069}[S6a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/20690.webp",
+    "priceA": 100,
+    "priceB": 70,
+    "priceC": 40,
+    "priceD": 10
+  },
+  {
+    "rarity": "RR",
     "code": "145/165",
     "name": "サンダーex 【RR】{145/165}[SV2a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/43486.webp",
@@ -10174,10 +10184,10 @@
     "code": "030/069",
     "name": "サンダースV 【RR】{030/069}[S6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/20680.webp",
-    "priceA": 10,
-    "priceB": 7,
-    "priceC": 4,
-    "priceD": 1
+    "priceA": 100,
+    "priceB": 70,
+    "priceC": 40,
+    "priceD": 10
   },
   {
     "rarity": "RR",
@@ -10194,10 +10204,10 @@
     "code": "015/069",
     "name": "シャワーズV 【RR】{015/069}[S6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/20665.webp",
-    "priceA": 10,
-    "priceB": 7,
-    "priceC": 4,
-    "priceD": 1
+    "priceA": 100,
+    "priceB": 70,
+    "priceC": 40,
+    "priceD": 10
   },
   {
     "rarity": "RR",
