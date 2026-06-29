@@ -8546,8 +8546,8 @@
     "image": "",
     "priceA": 46000,
     "priceB": 32199.999999999996,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 18400,
+    "priceD": 4600
   },
   {
     "rarity": "その他",
@@ -8556,8 +8556,8 @@
     "image": "",
     "priceA": 20000,
     "priceB": 14000,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 8000,
+    "priceD": 2000
   },
   {
     "rarity": "その他",
@@ -8566,8 +8566,8 @@
     "image": "",
     "priceA": 2300,
     "priceB": 1610,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 920,
+    "priceD": 230
   },
   {
     "rarity": "その他",
@@ -8576,8 +8576,8 @@
     "image": "",
     "priceA": 1500,
     "priceB": 1050,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 600,
+    "priceD": 150
   },
   {
     "rarity": "その他",
@@ -8586,8 +8586,8 @@
     "image": "",
     "priceA": 2000,
     "priceB": 1400,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 800,
+    "priceD": 200
   },
   {
     "rarity": "その他",
@@ -8596,8 +8596,8 @@
     "image": "",
     "priceA": 9000,
     "priceB": 6300,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 3600,
+    "priceD": 900
   },
   {
     "rarity": "その他",
@@ -8606,8 +8606,8 @@
     "image": "",
     "priceA": 2600,
     "priceB": 1819.9999999999998,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 1040,
+    "priceD": 260
   },
   {
     "rarity": "その他",
@@ -8616,8 +8616,8 @@
     "image": "",
     "priceA": 7600,
     "priceB": 5320,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 3040,
+    "priceD": 760
   },
   {
     "rarity": "その他",
@@ -8626,8 +8626,8 @@
     "image": "",
     "priceA": 1800,
     "priceB": 1260,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 720,
+    "priceD": 180
   },
   {
     "rarity": "その他",
@@ -8636,8 +8636,8 @@
     "image": "",
     "priceA": 600,
     "priceB": 420,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 240,
+    "priceD": 60
   },
   {
     "rarity": "その他",
@@ -8646,8 +8646,8 @@
     "image": "",
     "priceA": 400,
     "priceB": 280,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 160,
+    "priceD": 40
   },
   {
     "rarity": "その他",
@@ -8656,8 +8656,8 @@
     "image": "",
     "priceA": 400,
     "priceB": 280,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 160,
+    "priceD": 40
   },
   {
     "rarity": "その他",
@@ -8666,48 +8666,48 @@
     "image": "",
     "priceA": 1600,
     "priceB": 1120,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 640,
+    "priceD": 160
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "ひかるコイキング 25th【P】{010/025}[S8a-P]",
     "image": "",
-    "priceA": 13500,
-    "priceB": 9450,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 14000,
+    "priceB": 9800,
+    "priceC": 5600,
+    "priceD": 1400
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "フシギバナ 25th【P】{002/025}[S8a-P]",
     "image": "",
-    "priceA": 6750,
-    "priceB": 4725,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 6800,
+    "priceB": 4760,
+    "priceC": 2720,
+    "priceD": 680
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "ブラッキー☆ 25th【P】{012/025}[S8a-P]",
     "image": "",
-    "priceA": 24300,
-    "priceB": 17010,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 24000,
+    "priceB": 16800,
+    "priceC": 9600,
+    "priceD": 2400
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "マグマ団のグラードン 25th【P】{011/025}[S8a-P]",
     "image": "",
-    "priceA": 2520,
-    "priceB": 1764,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 2600,
+    "priceB": 1819.9999999999998,
+    "priceC": 1040,
+    "priceD": 260
   },
   {
     "rarity": "その他",
@@ -8716,18 +8716,18 @@
     "image": "",
     "priceA": 12600,
     "priceB": 8820,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 5040,
+    "priceD": 1260
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "ミュウツーEX 25th【P】{022/025}[S8a-P]",
     "image": "",
-    "priceA": 9900,
-    "priceB": 6930,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 10000,
+    "priceB": 7000,
+    "priceC": 4000,
+    "priceD": 1000
   },
   {
     "rarity": "その他",
@@ -8736,8 +8736,8 @@
     "image": "",
     "priceA": 61200,
     "priceB": 42840,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 24480,
+    "priceD": 6120
   },
   {
     "rarity": "その他",
@@ -8746,38 +8746,38 @@
     "image": "",
     "priceA": 7560,
     "priceB": 5292,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 3024,
+    "priceD": 756
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "レントラーGLLV.X 25th【P】{017/025}[S8a-P]",
     "image": "",
-    "priceA": 1170,
-    "priceB": 819,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 1200,
+    "priceB": 840,
+    "priceC": 480,
+    "priceD": 120
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "ロケット団の幹部 25th【P】{013/025}[S8a-P]",
     "image": "",
-    "priceA": 360,
-    "priceB": 251.99999999999997,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 400,
+    "priceB": 280,
+    "priceC": 160,
+    "priceD": 40
   },
   {
     "rarity": "その他",
     "code": "",
     "name": "ロケット団参上！ 25th【P】{006/025}[S8a-P]",
     "image": "",
-    "priceA": 2340,
-    "priceB": 1638,
-    "priceC": 0,
-    "priceD": 0
+    "priceA": 2500,
+    "priceB": 1750,
+    "priceC": 1000,
+    "priceD": 250
   },
   {
     "rarity": "その他",
@@ -8786,8 +8786,8 @@
     "image": "",
     "priceA": 6750,
     "priceB": 4725,
-    "priceC": 0,
-    "priceD": 0
+    "priceC": 2700,
+    "priceD": 675
   },
   {
     "rarity": "P",
