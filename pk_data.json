@@ -4651,6 +4651,16 @@
   },
   {
     "rarity": "RR",
+    "code": "072/080",
+    "name": "メガミミロップex 【RR】{072/080}[M2]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/71673.webp",
+    "priceA": 0,
+    "priceB": 60,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
     "code": "002/069",
     "name": "リーフィアV 【RR】{002/069}[S6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/20652.webp",
@@ -5141,6 +5151,26 @@
   },
   {
     "rarity": "RR",
+    "code": "013/063",
+    "name": "メガバクーダex 【RR】{013/063}[M1L]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/69797.webp",
+    "priceA": 0,
+    "priceB": 30,
+    "priceC": 15,
+    "priceD": 2.5
+  },
+  {
+    "rarity": "RR",
+    "code": "018/063",
+    "name": "メガユキノオーex 【RR】{018/063}[M1S]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/69865.webp",
+    "priceA": 0,
+    "priceB": 30,
+    "priceC": 15,
+    "priceD": 2.5
+  },
+  {
+    "rarity": "RR",
     "code": "011/064",
     "name": "ブラックキュレムex 【RR】{011/064}[SV7a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/59475.webp",
@@ -5224,16 +5254,6 @@
     "code": "052/066",
     "name": "ガチグマアカツキex 【RR】{052/066}[SV5a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/54736.webp",
-    "priceA": 0,
-    "priceB": 30,
-    "priceC": 15,
-    "priceD": 2.5
-  },
-  {
-    "rarity": "RR",
-    "code": "072/080",
-    "name": "メガミミロップex 【RR】{072/080}[M2]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/71673.webp",
     "priceA": 0,
     "priceB": 30,
     "priceC": 15,
@@ -5891,16 +5911,6 @@
   },
   {
     "rarity": "RR",
-    "code": "013/063",
-    "name": "メガバクーダex 【RR】{013/063}[M1L]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/69797.webp",
-    "priceA": 0,
-    "priceB": 18,
-    "priceC": 9,
-    "priceD": 1.5
-  },
-  {
-    "rarity": "RR",
     "code": "029/193",
     "name": "レシラムex 【RR】{029/193}[M2a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73290.webp",
@@ -6044,16 +6054,6 @@
     "code": "026/106",
     "name": "ミロカロスex 【RR】{026/106}[SV8]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/59926.webp",
-    "priceA": 0,
-    "priceB": 18,
-    "priceC": 9,
-    "priceD": 1.5
-  },
-  {
-    "rarity": "RR",
-    "code": "018/063",
-    "name": "メガユキノオーex 【RR】{018/063}[M1S]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/69865.webp",
     "priceA": 0,
     "priceB": 18,
     "priceC": 9,
@@ -6664,6 +6664,16 @@
     "code": "063/083",
     "name": "メガドラミドロex 【RR】{063/083}[M4]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/79841.webp",
+    "priceA": 0,
+    "priceB": 18,
+    "priceC": 9,
+    "priceD": 1.5
+  },
+  {
+    "rarity": "RR",
+    "code": "085/101",
+    "name": "ハピナスex 【RR】{085/101}[SV6]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/55560.webp",
     "priceA": 0,
     "priceB": 18,
     "priceC": 9,
@@ -7824,16 +7834,6 @@
     "code": "134/187",
     "name": "ガチグマアカツキex 【RR】{134/187}[SV8a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/61532.webp",
-    "priceA": 0,
-    "priceB": 6,
-    "priceC": 3,
-    "priceD": 0.5
-  },
-  {
-    "rarity": "RR",
-    "code": "085/101",
-    "name": "ハピナスex 【RR】{085/101}[SV6]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/55560.webp",
     "priceA": 0,
     "priceB": 6,
     "priceC": 3,
