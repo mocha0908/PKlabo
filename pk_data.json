@@ -2381,6 +2381,16 @@
   },
   {
     "rarity": "RR",
+    "code": "045/066",
+    "name": "ディアルガGX 【RR】{045/066}[sm5s]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/918.webp",
+    "priceA": 2000,
+    "priceB": 1400,
+    "priceC": 720,
+    "priceD": 120
+  },
+  {
+    "rarity": "RR",
     "code": "017/024",
     "name": "ミュウツーGX 【RR】{017/024}[smP2]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/4393.webp",
@@ -2424,16 +2434,6 @@
     "code": "025/055",
     "name": "ゲッコウガ＆ゾロアークGX 【RR】{025/055}[SM9a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2892.webp",
-    "priceA": 1800,
-    "priceB": 1300,
-    "priceC": 660,
-    "priceD": 110
-  },
-  {
-    "rarity": "RR",
-    "code": "045/066",
-    "name": "ディアルガGX 【RR】{045/066}[sm5s]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/918.webp",
     "priceA": 1800,
     "priceB": 1300,
     "priceC": 660,
