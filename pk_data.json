@@ -13118,5 +13118,15 @@
     "priceB": 0,
     "priceC": 0,
     "priceD": 0
+  },
+  {
+    "rarity": "AR",
+    "code": "",
+    "name": "ニャオハAR仕様",
+    "image": "",
+    "priceA": 1600,
+    "priceB": 1100,
+    "priceC": 0,
+    "priceD": 0
   }
 ]
