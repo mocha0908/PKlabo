@@ -13054,7 +13054,7 @@
     "code": "",
     "name": "RR保証",
     "image": "",
-    "priceA": 20,
+    "priceA": 15,
     "priceB": 5,
     "priceC": 5,
     "priceD": 2
@@ -13121,7 +13121,7 @@
   },
   {
     "rarity": "AR",
-    "code": "",
+    "code": "018/017",
     "name": "ニャオハAR仕様",
     "image": "",
     "priceA": 1600,
