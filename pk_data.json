@@ -13028,5 +13028,15 @@
     "priceB": 0,
     "priceC": 0,
     "priceD": 0
+  },
+  {
+    "rarity": "MA",
+    "code": "232/193",
+    "name": "メガカイリューex 【MA】{232/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73729.webp",
+    "priceA": 1300,
+    "priceB": 900,
+    "priceC": 450,
+    "priceD": 75
   }
 ]
