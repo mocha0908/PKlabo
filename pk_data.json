@@ -12808,5 +12808,115 @@
     "priceB": 490,
     "priceC": 280,
     "priceD": 70
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "AR・CHR保証",
+    "image": "",
+    "priceA": 200,
+    "priceB": 100,
+    "priceC": 50,
+    "priceD": 10
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "SAR保証",
+    "image": "",
+    "priceA": 600,
+    "priceB": 300,
+    "priceC": 150,
+    "priceD": 50
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "SR保証(ポケモン・サポート)スタンダード",
+    "image": "",
+    "priceA": 80,
+    "priceB": 40,
+    "priceC": 20,
+    "priceD": 10
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "SR保証(ポケモン・サポート以外)スタンダード",
+    "image": "",
+    "priceA": 20,
+    "priceB": 10,
+    "priceC": 5,
+    "priceD": 1
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "RR保証",
+    "image": "",
+    "priceA": 15,
+    "priceB": 5,
+    "priceC": 5,
+    "priceD": 2
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "PSA10保証(AR・CHR)",
+    "image": "",
+    "priceA": 6200,
+    "priceB": 5700,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "ノーマル1センチ1円",
+    "image": "",
+    "priceA": 1,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "20000円以上成立500円",
+    "image": "",
+    "priceA": 500,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "送料",
+    "image": "",
+    "priceA": 0,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "AR・CHR状態S",
+    "image": "",
+    "priceA": 250,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "SAR状態S",
+    "image": "",
+    "priceA": 750,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
   }
 ]
