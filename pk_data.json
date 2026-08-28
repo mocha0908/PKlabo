@@ -12918,5 +12918,105 @@
     "priceB": 0,
     "priceC": 0,
     "priceD": 0
+  },
+  {
+    "rarity": "MA",
+    "code": "223/193",
+    "name": "メガリザードンXex 【MA】{223/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73720.webp",
+    "priceA": 3000,
+    "priceB": 2100,
+    "priceC": 1000,
+    "priceD": 170
+  },
+  {
+    "rarity": "MA",
+    "code": "230/193",
+    "name": "メガゲンガーex 【MA】{230/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73727.webp",
+    "priceA": 2600,
+    "priceB": 1800,
+    "priceC": 900,
+    "priceD": 150
+  },
+  {
+    "rarity": "MA",
+    "code": "232/193",
+    "name": "メガカイリューex 【MA】{232/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73729.webp",
+    "priceA": 1200,
+    "priceB": 840,
+    "priceC": 480,
+    "priceD": 120
+  },
+  {
+    "rarity": "MA",
+    "code": "228/193",
+    "name": "メガルカリオex 【MA】{228/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73725.webp",
+    "priceA": 400,
+    "priceB": 280,
+    "priceC": 160,
+    "priceD": 40
+  },
+  {
+    "rarity": "MA",
+    "code": "226/193",
+    "name": "メガサーナイトex 【MA】{226/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73723.webp",
+    "priceA": 300,
+    "priceB": 210,
+    "priceC": 120,
+    "priceD": 30
+  },
+  {
+    "rarity": "MA",
+    "code": "224/193",
+    "name": "メガユキメノコex 【MA】{224/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73721.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
+  },
+  {
+    "rarity": "MA",
+    "code": "225/193",
+    "name": "メガシビルドンex 【MA】{225/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73722.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
+  },
+  {
+    "rarity": "MA",
+    "code": "227/193",
+    "name": "メガディアンシーex 【MA】{227/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73724.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
+  },
+  {
+    "rarity": "MA",
+    "code": "229/193",
+    "name": "メガルチャブルex 【MA】{229/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73726.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
+  },
+  {
+    "rarity": "MA",
+    "code": "231/193",
+    "name": "メガズルズキンex 【MA】{231/193}[M2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/73728.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 20
   }
 ]
