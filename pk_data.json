@@ -12918,5 +12918,35 @@
     "priceB": 0,
     "priceC": 0,
     "priceD": 0
+  },
+  {
+    "rarity": "RR",
+    "code": "058/076",
+    "name": "メガレックウザex 【RR】{058/076}[M6]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/82893.webp",
+    "priceA": 50,
+    "priceB": 30,
+    "priceC": 10,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "093/187",
+    "name": "ブラッキーex 【RR】{093/187}[SV8a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/61491.webp",
+    "priceA": 100,
+    "priceB": 50,
+    "priceC": 20,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "126/187",
+    "name": "イーブイex 【RR】{126/187}[SV8a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/61524.webp",
+    "priceA": 50,
+    "priceB": 30,
+    "priceC": 10,
+    "priceD": 5
   }
 ]
