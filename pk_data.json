@@ -8501,16 +8501,6 @@
   },
   {
     "rarity": "UR",
-    "code": "099/069",
-    "name": "ぐんぐんシェイク 【UR】{099/069}[S6a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/20765.webp",
-    "priceA": 100,
-    "priceB": 70,
-    "priceC": 40,
-    "priceD": 10
-  },
-  {
-    "rarity": "UR",
     "code": "223/173",
     "name": "ゲッコウガ＆ゾロアークGX 【UR】{223/173}[sm12a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/6063.webp",
@@ -8882,7 +8872,7 @@
   {
     "rarity": "UR",
     "code": "099/071",
-    "name": "テツノカシラex 【UR】{099/071}[SV5M]",
+    "name": "*/9",
     "image": "https://files.cardrush.media/pokemon/ocha_products/53329.webp",
     "priceA": 300,
     "priceB": 210,
