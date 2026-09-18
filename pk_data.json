@@ -9080,6 +9080,16 @@
     "priceD": 0
   },
   {
+    "rarity": "その他",
+    "code": "",
+    "name": "30th ピカチュウ保証",
+    "image": "",
+    "priceA": 100,
+    "priceB": 50,
+    "priceC": 20,
+    "priceD": 10
+  },
+  {
     "rarity": "UR",
     "code": "131/100",
     "name": "Nのゾロアークex 【UR】{131/100}[SV9]",
