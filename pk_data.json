@@ -14,10 +14,10 @@
     "code": "142/103",
     "name": "ルギア 30th/復刻版/クリスタルタイプ【-】{142/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85117.webp",
-    "priceA": 15000,
-    "priceB": 10500,
-    "priceC": 6000,
-    "priceD": 750
+    "priceA": 16000,
+    "priceB": 11200,
+    "priceC": 6400,
+    "priceD": 800
   },
   {
     "rarity": "復刻版",
@@ -54,10 +54,10 @@
     "code": "141/103",
     "name": "ひかるセレビィ LV.18 30th/復刻版【-】{141/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85116.webp",
-    "priceA": 1100,
-    "priceB": 770,
-    "priceC": 440,
-    "priceD": 55
+    "priceA": 1000,
+    "priceB": 700,
+    "priceC": 400,
+    "priceD": 50
   },
   {
     "rarity": "復刻版",
@@ -84,10 +84,10 @@
     "code": "154/103",
     "name": "レックウザEX 30th/復刻版【-】{154/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85128.webp",
-    "priceA": 1300,
-    "priceB": 910,
-    "priceC": 520,
-    "priceD": 65
+    "priceA": 1200,
+    "priceB": 840,
+    "priceC": 480,
+    "priceD": 60
   },
   {
     "rarity": "復刻版",
@@ -104,10 +104,10 @@
     "code": "163/103",
     "name": "ミュウVMAX 30th/復刻版【-】{163/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85137.webp",
-    "priceA": 700,
-    "priceB": 490,
-    "priceC": 280,
-    "priceD": 35
+    "priceA": 600,
+    "priceB": 420,
+    "priceC": 240,
+    "priceD": 30
   },
   {
     "rarity": "復刻版",
@@ -314,6 +314,16 @@
     "code": "131/M-P",
     "name": "ピカチュウex 未開封/FUR仕様/30th【-】{131/M-P}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85738.webp",
+    "priceA": 26000,
+    "priceB": 18200,
+    "priceC": 10400,
+    "priceD": 1300
+  },
+  {
+    "rarity": "FUR",
+    "code": "131/M-P",
+    "name": "ピカチュウex FUR仕様/30th【-】{131/M-P}[M6a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/85340.webp",
     "priceA": 25000,
     "priceB": 17500,
     "priceC": 10000,
@@ -321,33 +331,23 @@
   },
   {
     "rarity": "FUR",
-    "code": "131/M-P",
-    "name": "ピカチュウex FUR仕様/30th【-】{131/M-P}[M6a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/85340.webp",
-    "priceA": 24000,
-    "priceB": 16800,
-    "priceC": 9600,
-    "priceD": 1200
-  },
-  {
-    "rarity": "FUR",
     "code": "132/M-P",
     "name": "ピカチュウex 未開封/FUR仕様/30th【-】{132/M-P}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85739.webp",
-    "priceA": 20000,
-    "priceB": 14000,
-    "priceC": 8000,
-    "priceD": 1000
+    "priceA": 19000,
+    "priceB": 13300,
+    "priceC": 7600,
+    "priceD": 950
   },
   {
     "rarity": "FUR",
     "code": "132/M-P",
     "name": "ピカチュウex FUR仕様/30th【-】{132/M-P}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85341.webp",
-    "priceA": 19000,
-    "priceB": 13300,
-    "priceC": 7600,
-    "priceD": 950
+    "priceA": 17000,
+    "priceB": 11900,
+    "priceC": 6800,
+    "priceD": 850
   },
   {
     "rarity": "FUR",
@@ -374,20 +374,20 @@
     "code": "127/103",
     "name": "ピカチュウex 30th【SAR】{127/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85232.webp",
-    "priceA": 5000,
-    "priceB": 3500,
-    "priceC": 2000,
-    "priceD": 250
+    "priceA": 5200,
+    "priceB": 3640,
+    "priceC": 2080,
+    "priceD": 260
   },
   {
     "rarity": "SAR",
     "code": "129/103",
     "name": "ミュウex 30th【SAR】{129/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85234.webp",
-    "priceA": 5000,
-    "priceB": 3500,
-    "priceC": 2000,
-    "priceD": 250
+    "priceA": 4700,
+    "priceB": 3290,
+    "priceC": 1880,
+    "priceD": 235
   },
   {
     "rarity": "SAR",
@@ -404,56 +404,46 @@
     "code": "131/103",
     "name": "ゲンガーex 30th【SAR】{131/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85236.webp",
-    "priceA": 3600,
-    "priceB": 2520,
-    "priceC": 1440,
-    "priceD": 180
+    "priceA": 3400,
+    "priceB": 2380,
+    "priceC": 1360,
+    "priceD": 170
   },
   {
     "rarity": "SAR",
     "code": "128/103",
     "name": "ミュウツーex 30th【SAR】{128/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85233.webp",
-    "priceA": 2500,
-    "priceB": 1750,
-    "priceC": 1000,
-    "priceD": 125
+    "priceA": 2200,
+    "priceB": 1540,
+    "priceC": 880,
+    "priceD": 110
   },
   {
     "rarity": "SAR",
     "code": "130/103",
     "name": "ニンフィアex 30th【SAR】{130/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85235.webp",
-    "priceA": 2500,
-    "priceB": 1750,
-    "priceC": 1000,
-    "priceD": 125
+    "priceA": 2200,
+    "priceB": 1540,
+    "priceC": 880,
+    "priceD": 110
   },
   {
     "rarity": "SAR",
     "code": "132/103",
     "name": "ジラーチex 30th【SAR】{132/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85237.webp",
-    "priceA": 1500,
-    "priceB": 1050,
-    "priceC": 600,
-    "priceD": 75
+    "priceA": 1400,
+    "priceB": 980,
+    "priceC": 560,
+    "priceD": 70
   },
   {
     "rarity": "SAR",
     "code": "125/103",
     "name": "ゲッコウガex 30th【SAR】{125/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85230.webp",
-    "priceA": 1000,
-    "priceB": 700,
-    "priceC": 400,
-    "priceD": 50
-  },
-  {
-    "rarity": "SAR",
-    "code": "124/103",
-    "name": "ホゲータex 30th【SAR】{124/103}[M6a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/85229.webp",
     "priceA": 900,
     "priceB": 630,
     "priceC": 360,
@@ -461,13 +451,23 @@
   },
   {
     "rarity": "SAR",
+    "code": "124/103",
+    "name": "ホゲータex 30th【SAR】{124/103}[M6a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/85229.webp",
+    "priceA": 800,
+    "priceB": 560,
+    "priceC": 320,
+    "priceD": 40
+  },
+  {
+    "rarity": "SAR",
     "code": "133/103",
     "name": "ボーマンダex 30th【SAR】{133/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85238.webp",
-    "priceA": 1000,
-    "priceB": 700,
-    "priceC": 400,
-    "priceD": 50
+    "priceA": 900,
+    "priceB": 630,
+    "priceC": 360,
+    "priceD": 45
   },
   {
     "rarity": "SAR",
