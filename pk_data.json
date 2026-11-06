@@ -13572,6 +13572,36 @@
   {
     "rarity": "その他",
     "code": "",
+    "name": "30thヒトカゲ",
+    "image": "",
+    "priceA": 500,
+    "priceB": 300,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "30thゼニガメ、フシギダネ",
+    "image": "",
+    "priceA": 200,
+    "priceB": 100,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
+    "name": "30thAR仕様その他",
+    "image": "",
+    "priceA": 70,
+    "priceB": 30,
+    "priceC": 0,
+    "priceD": 0
+  },
+  {
+    "rarity": "その他",
+    "code": "",
     "name": "151ノーマル保証",
     "image": "",
     "priceA": 10,
