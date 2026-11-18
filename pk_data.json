@@ -14,20 +14,20 @@
     "code": "142/103",
     "name": "ルギア 30th/復刻版/クリスタルタイプ【-】{142/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85117.webp",
-    "priceA": 16000,
-    "priceB": 11200,
-    "priceC": 6400,
-    "priceD": 800
+    "priceA": 18000,
+    "priceB": 12600,
+    "priceC": 7200,
+    "priceD": 900
   },
   {
     "rarity": "復刻版",
     "code": "165/103",
     "name": "コイキング 30th/復刻版【-】{165/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85139.webp",
-    "priceA": 3300,
-    "priceB": 2310,
-    "priceC": 1320,
-    "priceD": 165
+    "priceA": 3500,
+    "priceB": 2450,
+    "priceC": 1400,
+    "priceD": 175
   },
   {
     "rarity": "復刻版",
@@ -64,20 +64,20 @@
     "code": "160/103",
     "name": "ピカチュウ&ゼクロムGX 30th/復刻版【-】{160/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85134.webp",
-    "priceA": 700,
-    "priceB": 490,
-    "priceC": 280,
-    "priceD": 35
+    "priceA": 800,
+    "priceB": 560,
+    "priceC": 320,
+    "priceD": 40
   },
   {
     "rarity": "復刻版",
     "code": "151/103+152/103",
     "name": "ダークライ＆クレセリアLEGEND 30th/復刻版【-】{151/103+152/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85126.webp",
-    "priceA": 500,
-    "priceB": 350,
-    "priceC": 200,
-    "priceD": 25
+    "priceA": 600,
+    "priceB": 420,
+    "priceC": 240,
+    "priceD": 30
   },
   {
     "rarity": "復刻版",
@@ -94,20 +94,20 @@
     "code": "144/103",
     "name": "わるいバンギラス 30th/復刻版【-】{144/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85119.webp",
-    "priceA": 600,
-    "priceB": 420,
-    "priceC": 240,
-    "priceD": 30
+    "priceA": 500,
+    "priceB": 350,
+    "priceC": 200,
+    "priceD": 25
   },
   {
     "rarity": "復刻版",
     "code": "163/103",
     "name": "ミュウVMAX 30th/復刻版【-】{163/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85137.webp",
-    "priceA": 500,
-    "priceB": 350,
-    "priceC": 200,
-    "priceD": 25
+    "priceA": 600,
+    "priceB": 420,
+    "priceC": 240,
+    "priceD": 30
   },
   {
     "rarity": "復刻版",
@@ -124,20 +124,20 @@
     "code": "151/103",
     "name": "(上)ダークライ＆クレセリアLEGEND 30th/復刻版【-】{151/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85729.webp",
-    "priceA": 250,
-    "priceB": 175,
-    "priceC": 100,
-    "priceD": 13
+    "priceA": 300,
+    "priceB": 210,
+    "priceC": 120,
+    "priceD": 15
   },
   {
     "rarity": "復刻版",
     "code": "152/103",
     "name": "(下)ダークライ＆クレセリアLEGEND 30th/復刻版【-】{152/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85730.webp",
-    "priceA": 250,
-    "priceB": 175,
-    "priceC": 100,
-    "priceD": 13
+    "priceA": 300,
+    "priceB": 210,
+    "priceC": 120,
+    "priceD": 15
   },
   {
     "rarity": "復刻版",
@@ -334,6 +334,16 @@
     "code": "132/M-P",
     "name": "ピカチュウex 未開封/FUR仕様/30th【-】{132/M-P}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85739.webp",
+    "priceA": 19000,
+    "priceB": 13300,
+    "priceC": 7600,
+    "priceD": 950
+  },
+  {
+    "rarity": "FUR",
+    "code": "132/M-P",
+    "name": "ピカチュウex FUR仕様/30th【-】{132/M-P}[M6a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/85341.webp",
     "priceA": 18000,
     "priceB": 12600,
     "priceC": 7200,
@@ -341,23 +351,13 @@
   },
   {
     "rarity": "FUR",
-    "code": "132/M-P",
-    "name": "ピカチュウex FUR仕様/30th【-】{132/M-P}[M6a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/85341.webp",
-    "priceA": 17000,
-    "priceB": 11900,
-    "priceC": 6800,
-    "priceD": 850
-  },
-  {
-    "rarity": "FUR",
     "code": "135/103",
     "name": "ミュウex 30th【FUR】{135/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85240.webp",
-    "priceA": 3500,
-    "priceB": 2450,
-    "priceC": 1400,
-    "priceD": 175
+    "priceA": 4000,
+    "priceB": 2800,
+    "priceC": 1600,
+    "priceD": 200
   },
   {
     "rarity": "FUR",
@@ -374,36 +374,26 @@
     "code": "127/103",
     "name": "ピカチュウex 30th【SAR】{127/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85232.webp",
-    "priceA": 3500,
-    "priceB": 2450,
-    "priceC": 1400,
-    "priceD": 175
+    "priceA": 4000,
+    "priceB": 2800,
+    "priceC": 1600,
+    "priceD": 200
   },
   {
     "rarity": "SAR",
     "code": "129/103",
     "name": "ミュウex 30th【SAR】{129/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85234.webp",
-    "priceA": 3500,
-    "priceB": 2450,
-    "priceC": 1400,
-    "priceD": 175
+    "priceA": 3700,
+    "priceB": 2590,
+    "priceC": 1480,
+    "priceD": 185
   },
   {
     "rarity": "SAR",
     "code": "126/103",
     "name": "ピカチュウex 30th【SAR】{126/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85231.webp",
-    "priceA": 2700,
-    "priceB": 1890,
-    "priceC": 1080,
-    "priceD": 135
-  },
-  {
-    "rarity": "SAR",
-    "code": "131/103",
-    "name": "ゲンガーex 30th【SAR】{131/103}[M6a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/85236.webp",
     "priceA": 3000,
     "priceB": 2100,
     "priceC": 1200,
@@ -411,33 +401,43 @@
   },
   {
     "rarity": "SAR",
+    "code": "131/103",
+    "name": "ゲンガーex 30th【SAR】{131/103}[M6a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/85236.webp",
+    "priceA": 3500,
+    "priceB": 2450,
+    "priceC": 1400,
+    "priceD": 175
+  },
+  {
+    "rarity": "SAR",
     "code": "128/103",
     "name": "ミュウツーex 30th【SAR】{128/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85233.webp",
-    "priceA": 1300,
-    "priceB": 910,
-    "priceC": 520,
-    "priceD": 65
+    "priceA": 1400,
+    "priceB": 980,
+    "priceC": 560,
+    "priceD": 70
   },
   {
     "rarity": "SAR",
     "code": "130/103",
     "name": "ニンフィアex 30th【SAR】{130/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85235.webp",
-    "priceA": 1300,
-    "priceB": 910,
-    "priceC": 520,
-    "priceD": 65
+    "priceA": 1400,
+    "priceB": 980,
+    "priceC": 560,
+    "priceD": 70
   },
   {
     "rarity": "SAR",
     "code": "132/103",
     "name": "ジラーチex 30th【SAR】{132/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85237.webp",
-    "priceA": 1300,
-    "priceB": 910,
-    "priceC": 520,
-    "priceD": 65
+    "priceA": 1400,
+    "priceB": 980,
+    "priceC": 560,
+    "priceD": 70
   },
   {
     "rarity": "SAR",
@@ -464,30 +464,30 @@
     "code": "133/103",
     "name": "ボーマンダex 30th【SAR】{133/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85238.webp",
-    "priceA": 600,
-    "priceB": 420,
-    "priceC": 240,
-    "priceD": 30
+    "priceA": 500,
+    "priceB": 350,
+    "priceC": 200,
+    "priceD": 25
   },
   {
     "rarity": "SAR",
     "code": "044/040",
     "name": "ブラッキーex SAR仕様/30th【-】{044/040}[MF]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85203.webp",
-    "priceA": 8000,
-    "priceB": 5600,
-    "priceC": 3200,
-    "priceD": 400
+    "priceA": 8500,
+    "priceB": 5950,
+    "priceC": 3400,
+    "priceD": 425
   },
   {
     "rarity": "SAR",
     "code": "043/040",
     "name": "エーフィex SAR仕様/30th【-】{043/040}[MF]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85202.webp",
-    "priceA": 3300,
-    "priceB": 2310,
-    "priceC": 1320,
-    "priceD": 165
+    "priceA": 35000,
+    "priceB": 24500,
+    "priceC": 14000,
+    "priceD": 1750
   },
   {
     "rarity": "RR",
@@ -574,9 +574,9 @@
     "code": "041/103",
     "name": "ピカチュウ 30th-25/30【-】{041/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85051.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -584,9 +584,9 @@
     "code": "034/103",
     "name": "ピカチュウ 30th-18/30【-】{034/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85044.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -594,9 +594,9 @@
     "code": "037/103",
     "name": "ピカチュウ 30th-21/30【-】{037/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85047.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -604,9 +604,9 @@
     "code": "017/103",
     "name": "ピカチュウ 30th-01/30【-】{017/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85027.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -614,9 +614,9 @@
     "code": "019/103",
     "name": "ピカチュウ 30th-03/30【-】{019/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85029.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -624,9 +624,9 @@
     "code": "024/103",
     "name": "ピカチュウ 30th-08/30【-】{024/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85034.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -634,9 +634,9 @@
     "code": "025/103",
     "name": "ピカチュウ 30th-09/30【-】{025/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85035.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -644,9 +644,9 @@
     "code": "026/103",
     "name": "ピカチュウ 30th-10/30【-】{026/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85036.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -654,9 +654,9 @@
     "code": "027/103",
     "name": "ピカチュウ 30th-11/30【-】{027/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85037.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -664,9 +664,9 @@
     "code": "033/103",
     "name": "ピカチュウ 30th-17/30【-】{033/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85043.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -674,9 +674,9 @@
     "code": "038/103",
     "name": "ピカチュウ 30th-22/30【-】{038/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85048.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -684,9 +684,9 @@
     "code": "039/103",
     "name": "ピカチュウ 30th-23/30【-】{039/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85049.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -694,9 +694,9 @@
     "code": "040/103",
     "name": "ピカチュウ 30th-24/30【-】{040/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85050.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -704,9 +704,9 @@
     "code": "042/103",
     "name": "ピカチュウ 30th-26/30【-】{042/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85052.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -714,9 +714,9 @@
     "code": "043/103",
     "name": "ピカチュウ 30th-27/30【-】{043/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85053.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -724,9 +724,9 @@
     "code": "045/103",
     "name": "ピカチュウ 30th-29/30【-】{045/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85055.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -734,9 +734,9 @@
     "code": "046/103",
     "name": "ピカチュウ 30th-30/30【-】{046/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85056.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -744,9 +744,9 @@
     "code": "018/103",
     "name": "ピカチュウ 30th-02/30【-】{018/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85028.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -754,9 +754,9 @@
     "code": "020/103",
     "name": "ピカチュウ 30th-04/30【-】{020/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85030.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -764,9 +764,9 @@
     "code": "021/103",
     "name": "ピカチュウ 30th-05/30【-】{021/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85031.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -774,9 +774,9 @@
     "code": "022/103",
     "name": "ピカチュウ 30th-06/30【-】{022/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85032.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -784,9 +784,9 @@
     "code": "023/103",
     "name": "ピカチュウ 30th-07/30【-】{023/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85033.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -794,9 +794,9 @@
     "code": "028/103",
     "name": "ピカチュウ 30th-12/30【-】{028/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85038.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -804,9 +804,9 @@
     "code": "029/103",
     "name": "ピカチュウ 30th-13/30【-】{029/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85039.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -814,9 +814,9 @@
     "code": "030/103",
     "name": "ピカチュウ 30th-14/30【-】{030/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85040.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -824,9 +824,9 @@
     "code": "031/103",
     "name": "ピカチュウ 30th-15/30【-】{031/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85041.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -834,9 +834,9 @@
     "code": "032/103",
     "name": "ピカチュウ 30th-16/30【-】{032/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85042.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -844,9 +844,9 @@
     "code": "035/103",
     "name": "ピカチュウ 30th-19/30【-】{035/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85045.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -854,9 +854,9 @@
     "code": "036/103",
     "name": "ピカチュウ 30th-20/30【-】{036/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85046.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
@@ -864,9 +864,9 @@
     "code": "044/103",
     "name": "ピカチュウ 30th-28/30【-】{044/103}[M6a]",
     "image": "https://files.cardrush.media/pokemon/ocha_products/85054.webp",
-    "priceA": 20,
-    "priceB": 10,
-    "priceC": 5,
+    "priceA": 30,
+    "priceB": 20,
+    "priceC": 10,
     "priceD": 2
   },
   {
