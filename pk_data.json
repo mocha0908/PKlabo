@@ -10330,11 +10330,121 @@
     "priceD": 10
   },
   {
+    "rarity": "RR",
+    "code": "006/165",
+    "name": "リザードンex 【RR】{006/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43347.webp",
+    "priceA": 500,
+    "priceB": 300,
+    "priceC": 200,
+    "priceD": 50
+  },
+  {
+    "rarity": "RR",
+    "code": "009/165",
+    "name": "カメックスex 【RR】{009/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43350.webp",
+    "priceA": 200,
+    "priceB": 140,
+    "priceC": 80,
+    "priceD": 10
+  },
+  {
+    "rarity": "RR",
+    "code": "003/165",
+    "name": "フシギバナex 【RR】{003/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43344.webp",
+    "priceA": 150,
+    "priceB": 100,
+    "priceC": 60,
+    "priceD": 10
+  },
+  {
+    "rarity": "RR",
+    "code": "038/165",
+    "name": "キュウコンex 【RR】{038/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43379.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 20,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "151/165",
+    "name": "ミュウex 【RR】{151/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43492.webp",
+    "priceA": 150,
+    "priceB": 100,
+    "priceC": 50,
+    "priceD": 10
+  },
+  {
+    "rarity": "RR",
+    "code": "124/165",
+    "name": "ルージュラex 【RR】{124/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43465.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "145/165",
+    "name": "サンダーex 【RR】{145/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43486.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "076/165",
+    "name": "ゴローニャex 【RR】{076/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43417.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "115/165",
+    "name": "ガルーラex 【RR】{115/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43456.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "065/165",
+    "name": "フーディンex 【RR】{065/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43406.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
+    "rarity": "RR",
+    "code": "040/165",
+    "name": "プクリンex 【RR】{040/165}[SV2a]",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/43381.webp",
+    "priceA": 80,
+    "priceB": 50,
+    "priceC": 30,
+    "priceD": 5
+  },
+  {
     "rarity": "その他",
     "code": "",
     "name": "AR・CHR保証",
     "image": "",
-    "priceA": 150,
+    "priceA": 160,
     "priceB": 100,
     "priceC": 50,
     "priceD": 10
@@ -10456,7 +10566,7 @@
     "image": "",
     "priceA": 200,
     "priceB": 0,
-    "priceC": 50,
+    "priceC": 0,
     "priceD": 0
   },
   {
@@ -10514,7 +10624,7 @@
     "code": "",
     "name": "151R保証",
     "image": "",
-    "priceA": 30,
+    "priceA": 20,
     "priceB": 0,
     "priceC": 0,
     "priceD": 2
@@ -10534,7 +10644,7 @@
     "code": "",
     "name": "151モンボ保証",
     "image": "",
-    "priceA": 20,
+    "priceA": 30,
     "priceB": 0,
     "priceC": 0,
     "priceD": 2
@@ -10672,9 +10782,9 @@
   {
     "rarity": "その他",
     "code": "",
-    "name": "SV4a S保証",
+    "name": "SV4a RR保証",
     "image": "",
-    "priceA": 100,
+    "priceA": 15,
     "priceB": 0,
     "priceC": 0,
     "priceD": 5
@@ -10684,119 +10794,39 @@
     "code": "",
     "name": "SV4a SSR保証",
     "image": "",
-    "priceA": 140,
+    "priceA": 100,
     "priceB": 0,
     "priceC": 0,
     "priceD": 10
   },
   {
-    "rarity": "RR",
-    "code": "006/165",
-    "name": "リザードンex 【RR】{006/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43347.webp",
-    "priceA": 500,
-    "priceB": 300,
-    "priceC": 200,
-    "priceD": 50
+    "rarity": "その他",
+    "code": "",
+    "name": "m2ノーマル",
+    "image": "",
+    "priceA": 1,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
   },
   {
-    "rarity": "RR",
-    "code": "009/165",
-    "name": "カメックスex 【RR】{009/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43350.webp",
-    "priceA": 200,
-    "priceB": 140,
-    "priceC": 80,
-    "priceD": 10
+    "rarity": "その他",
+    "code": "",
+    "name": "m2 R保証",
+    "image": "",
+    "priceA": 5,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
   },
   {
-    "rarity": "RR",
-    "code": "003/165",
-    "name": "フシギバナex 【RR】{003/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43344.webp",
-    "priceA": 150,
-    "priceB": 100,
-    "priceC": 60,
-    "priceD": 10
-  },
-  {
-    "rarity": "RR",
-    "code": "038/165",
-    "name": "キュウコンex 【RR】{038/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43379.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 20,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "151/165",
-    "name": "ミュウex 【RR】{151/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43492.webp",
-    "priceA": 150,
-    "priceB": 100,
-    "priceC": 50,
-    "priceD": 10
-  },
-  {
-    "rarity": "RR",
-    "code": "124/165",
-    "name": "ルージュラex 【RR】{124/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43465.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "145/165",
-    "name": "サンダーex 【RR】{145/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43486.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "076/165",
-    "name": "ゴローニャex 【RR】{076/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43417.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "115/165",
-    "name": "ガルーラex 【RR】{115/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43456.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "065/165",
-    "name": "フーディンex 【RR】{065/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43406.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
-  },
-  {
-    "rarity": "RR",
-    "code": "040/165",
-    "name": "プクリンex 【RR】{040/165}[SV2a]",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/43381.webp",
-    "priceA": 80,
-    "priceB": 50,
-    "priceC": 30,
-    "priceD": 5
+    "rarity": "その他",
+    "code": "",
+    "name": "m2 RR保証",
+    "image": "",
+    "priceA": 10,
+    "priceB": 0,
+    "priceC": 0,
+    "priceD": 0
   }
 ]
